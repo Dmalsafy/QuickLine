@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "login": "Login",
+  "signup": "Sign Up",
+  "emailOrPhone": "Email or Phone",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "fullName": "Full Name",
+  "phone": "Phone",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "alreadyHaveAccount": "Already have an account? Login",
+  "dontHaveAccount": "Don’t have an account? Sign Up",
+  "forgetPassword": "Forget your password?",
+  "loginWith": "Login with"
+}

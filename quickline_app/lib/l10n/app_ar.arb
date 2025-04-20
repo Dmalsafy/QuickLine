@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "login": "تسجيل الدخول",
+  "signup": "إنشاء حساب",
+  "emailOrPhone": "البريد الإلكتروني أو رقم الهاتف",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "fullName": "الاسم الكامل",
+  "phone": "الهاتف",
+  "gender": "الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "alreadyHaveAccount": "هل لديك حساب؟ تسجيل الدخول",
+  "dontHaveAccount": "ليس لديك حساب؟ أنشئ حساب",
+  "forgetPassword": "هل نسيت كلمة المرور؟",
+  "loginWith": "تسجيل الدخول باستخدام"
+}
